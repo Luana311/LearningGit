@@ -3,4 +3,11 @@
 ################################################################################
 
 /.vs/LearningGit/FileContentIndex
+<<<<<<< HEAD
+=======
+/.gitignore
+>>>>>>> origin/PromoBranch
 /.vs/slnx.sqlite
+/.vs/LearningGit/FileContentIndex/70f4ba35-2434-4077-8fde-59c368ca886d.vsidx
+/.vs/LearningGit/v17/.wsuo
+/.vs/VSWorkspaceState.json
