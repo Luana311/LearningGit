@@ -1,2 +1,3 @@
 Questo è il secondo file creato nel pc.
 Faccio commit da Visual Code.
+20260125 11.08 Rifaccio una modifica da Visual Code.
