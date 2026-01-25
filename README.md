@@ -13,3 +13,4 @@ File README
 
 20260125 12:12 Create righe vuote per impaginare meglio il file .md. (questo nel SecondBranch)
 
+20260125 12:37 Il merge è andato a buon fine. Questa modifica in master.README.txt porta quindi avanti il branch master.
