@@ -1,0 +1,2 @@
+Questo è il secondo file creato nel pc.
+Faccio commit da Visual Code.
