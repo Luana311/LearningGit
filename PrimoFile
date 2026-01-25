@@ -7,3 +7,4 @@ Creo il primo brach PrimoBranch dove modifico il PrimoFile.
 20260125 11:37 Adesso unisco il branch PrimoBranch nel master.
 20260125 11:40 Faccio commit per poter fare merge.
 20260125 11:50 Proseguo nella modifica nel brach master. Poi cancello il brach PrimoBranch.
+20260125 11:54 Riprendo a modificare il PrimoFile nel branch master.
