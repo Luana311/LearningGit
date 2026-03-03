@@ -7,10 +7,11 @@ File README
 
 20250125 12:06 A questo punto dopo Commit faccio Push di SecondoBranch.
 
-20260125 12:08 Il SecondoBrach è stato creato, committato e pushato, modificando il file README. Questa modifica di README invece avvine nel branch master, creando un disallineamento con il SecondBranch.
+20260125 12:08 Il SecondoBrach ï¿½ stato creato, committato e pushato, modificando il file README. Questa modifica di README invece avvine nel branch master, creando un disallineamento con il SecondBranch.
 
 20260125 12:00 Create righe vuote per impaginare meglio ilfile .md.
 
 20260125 12:12 Create righe vuote per impaginare meglio il file .md. (questo nel SecondBranch)
 
-20260125 12:37 Il merge è andato a buon fine. Questa modifica in master.README.txt porta quindi avanti il branch master.
+20260125 12:37 Il merge ï¿½ andato a buon fine. Questa modifica in master.README.txt porta quindi avanti il branch master.
+
